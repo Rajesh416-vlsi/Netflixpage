@@ -15,6 +15,7 @@ A responsive front-end clone of the Netflix home page created using HTML and CSS
 
 
   #output
+  https://github.com/Rajesh416-vlsi/Netflixpage/issues/1#issue-3168606063
 
   
 
